@@ -1,0 +1,8 @@
+.autoExclude
+standard.vmt
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs
